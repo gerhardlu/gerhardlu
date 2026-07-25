@@ -1,4 +1,4 @@
-### Olá, sou o Gerhard 👋
+### Olá, sou o Gerhard 
 
  Estudante de Engenharia de Software na FIAP
  Aprendendo Java, com foco em Programação Orientada a Objetos
