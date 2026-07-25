@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, sou o Gerhard 👋
 
-<!--
-**gerhardlu/gerhardlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Engenharia de Software na FIAP
+ Aprendendo Java, com foco em Programação Orientada a Objetos
+ Direcionando minha carreira para o setor bancário e fintech no Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projeto em destaque:**
+🔗 [java-bank-system](https://github.com/gerhardlu/java-bank-system) — simulador bancário em Java, praticando encapsulamento, herança, tratamento de exceções e persistência de dados com banco H2.
+
+---
+
+📍 São Paulo, Brasil
