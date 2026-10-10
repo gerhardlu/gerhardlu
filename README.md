@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas 👋
 
-Sou um estudante de Engenharia de Software na FIAP, com foco em Arquitetura com Microserviçoes usando Java, Spring Boot,
-MySQL / PostgreSQL, Docker, Kubernetes.
+Sou um estudante de Engenharia de Software na FIAP, com foco em Arquitetura com Microserviçoes usando Java,
+Spring Boot, MySQL / PostgreSQL, Docker, Kubernetes.
 
 ## Tecnologias que utilizo
 
