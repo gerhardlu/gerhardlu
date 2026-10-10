@@ -8,7 +8,7 @@ Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: seuemail@gmail
 
 ## Minhas Tecnologias
 
-![Java](https://skillicons.dev/icons?i=java,git,github,mysql)
+![Java](https://skillicons.dev/icons?i=java,git,github,mysql,docker)
 
 ## Meus projetos
 
