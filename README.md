@@ -4,11 +4,11 @@ Estudante de Engenharia de Software na FIAP, com foco em tecnologia
 para o setor bancário e fintechs.
 
 Estou em busca de oportunidades para crescer na área de tecnologia.
-Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: seuemail@gmail.com
+Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: lucasgerhard150@gmail.com
 
 ## Minhas Tecnologias
 
-![Java](https://skillicons.dev/icons?i=java,git,github,mysql,docker)
+![Java](https://skillicons.dev/icons?i=java,sql,mysql,docker)
 
 ## Meus projetos
 
