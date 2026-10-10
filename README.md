@@ -1,14 +1,13 @@
 # Olá, eu sou o Lucas 👋
 
-Estudante de Engenharia de Software na FIAP, com foco em tecnologia
-para o setor bancário e fintechs.
+Sou um estudante de Engenharia de Software na FIAP, com foco em Arquitetura com Microserviçoes usando Java,
+Docker, Kubernetes, MySQL e PostgreSQL
 
-Estou em busca de oportunidades para crescer na área de tecnologia.
 Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: lucasgerhard150@gmail.com
 
-## Minhas Tecnologias
+## Tecnologias que utilizo
 
-![Java](https://skillicons.dev/icons?i=java,mysql,docker)
+![Java](https://skillicons.dev/icons?i=java,mysql,docker,kubernetes)
 
 ## Meus projetos
 
