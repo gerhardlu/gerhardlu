@@ -5,7 +5,7 @@ Spring Boot, MySQL / PostgreSQL, Docker, Kubernetes.
 
 ## Tecnologias que utilizo
 
-![Java](https://skillicons.dev/icons?i=java,mysql,docker,kubernetes)
+![Java](https://skillicons.dev/icons?i=java,spring,mysql,docker,kubernetes)
 
 ## Meus projetos
 
