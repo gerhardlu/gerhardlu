@@ -1,17 +1,18 @@
-### Olá, sou o Gerhard 
+# Olá, eu sou o Lucas 👋
 
- Estudante de Engenharia de Software na FIAP
+Estudante de Engenharia de Software na FIAP, com foco em tecnologia
+para o setor bancário e fintechs.
 
- Aprendendo Java, com foco em Programação Orientada a Objetos
+Estou em busca de oportunidades para crescer na área de tecnologia.
+Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: seuemail@gmail.com
 
- Direcionando minha carreira para o setor bancário e fintech no Brasil
+## Minhas Tecnologias
 
----
+![Java](https://skillicons.dev/icons?i=java,git,github,mysql)
 
-**Projeto em destaque:**
+## Meus projetos
 
-🔗 [java-bank-system](https://github.com/gerhardlu/java-bank-system) — simulador bancário em Java, praticando encapsulamento, herança, tratamento de exceções e persistência de dados com banco H2.
-
----
-
-📍 São Paulo, Brasil
+| Nome do Projeto | Link | Linguagem | Observação |
+|---|---|---|---|
+| Screen Match | [Ver projeto](https://github.com/gerhardlu/screen-match) | Java | Projeto de avaliação de filmes com POO |
+| Java Bank System | [Ver projeto](https://github.com/gerhardlu/nome-do-repo) | Java | Simulador de conta bancária |
