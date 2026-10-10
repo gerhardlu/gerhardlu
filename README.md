@@ -1,9 +1,7 @@
 # Olá, eu sou o Lucas 👋
 
 Sou um estudante de Engenharia de Software na FIAP, com foco em Arquitetura com Microserviçoes usando Java,
-Docker, Kubernetes, MySQL e PostgreSQL
-
-Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: lucasgerhard150@gmail.com
+MySQL / PostgreSQL, Docker, Kubernetes.
 
 ## Tecnologias que utilizo
 
