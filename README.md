@@ -8,7 +8,7 @@ Se quiser trocar ideias, fale comigo pelo LinkedIn ou por e-mail: lucasgerhard15
 
 ## Minhas Tecnologias
 
-![Java](https://skillicons.dev/icons?i=java,sql,mysql,docker)
+![Java](https://skillicons.dev/icons?i=java,mysql,docker)
 
 ## Meus projetos
 
